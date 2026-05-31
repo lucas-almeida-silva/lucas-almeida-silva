@@ -3,10 +3,10 @@
 
 ### Hi there 👋 Welcome to my profile!
 
-- 🔭 I’m currently working on Mttechne as Intern in development of systems with .NET
-- 🌱 I’m currently learning Angular, NodeJS, ReactJS and React Native
-- 📚 I’m studying Analysis and System Development
-- ⚡ Knowledges: .NET Core | Javascript | Typescript | Angular | NodeJS | Docker | HTML | CSS | Unit and Integration Tets 
+- 🔭 I’m currently working on Itaú Unibanco as Senior Software Engineer
+- 🌱 I’m currently learning ReactJS, Next.js and Java
+- 📚 I’m studying Software Archiecture
+- ⚡ Knowledges: .NET Core | Javascript | Typescript | Angular | NodeJS | Java | Docker | HTML | CSS | 
 
 I'm passionate about technology and I'm always evolving and becoming a better developer!  
   
